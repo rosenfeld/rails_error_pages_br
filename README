@@ -1,0 +1,7 @@
+h1. Tradução de páginas de erro do Rails
+
+Traduz para português as páginas de erros (404,422,500) e o índice padrão.
+
+h2. Instalação
+
+Para utilizar as páginas de erro traduzidas, apenas substitua os arquivos originais pelo deste repositório.
